@@ -11,16 +11,18 @@ const Set = require("./app/models/Set");
     const typeDefs = `
     type Query {
     
-        theme(id: String!): Theme
+        theme(id: String!): Theme!
         themes: [Theme]
-        set(id: String!): Set
+        set(set_num: String!): Set!
         sets: [Set]
     }
 
     type Theme {
         id: String!
         name: String!
-        parent_id: String!   
+        parent: Theme   
+        children: [Theme]
+        sets: [Set]
     }
 
     type Set {
@@ -38,6 +40,15 @@ const Set = require("./app/models/Set");
             themes: async _ => Theme.findAll(),
             set: async (_, { id }) => Set.findOne(id),
             sets: async _ => Set.findAll()
+        },
+
+        Set: {
+            theme: ({theme_id}) => Theme.findOne(theme_id)
+        },
+        Theme: {
+            parent: ({set_id}) => Theme.findOne(set_id),
+            children: ({ id }) => Theme.findByParent(id),
+            sets: ({id}) => Set.findByTheme(id)
         }
 
     }
