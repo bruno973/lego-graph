@@ -55,6 +55,7 @@ set_num,name,year,theme_id,num_parts
 074-1,Pre-School Set,1976,505,20
 0744023726-1,Disney Princess: Enchanted Treasury,2020,497,4
 0744023734-1,LEGO Minifigure: A Visual History New Edition,2020,497,4
+0744024471-1,100 Ways to Rebuild the World,2020,497,0
 075-1,Pre-School Set,1975,505,17
 0751359483-1,The Ultimate LEGO Book,1999,497,0
 0756668530-1,Atlantis: Brickmaster,2010,497,157
@@ -672,7 +673,7 @@ set_num,name,year,theme_id,num_parts
 1089-1,Basic Figures,1985,534,24
 10893-1,Spider-Man vs. Electro,2019,630,29
 10894-1,Toy Story Train,2019,633,21
-10895-1,Emmet and Lucy's Visitors from the DUPLO Planet,2019,504,51
+10895-1,Emmet and Lucy's Visitors from the DUPLO Planet,2019,504,53
 10897-1,My First Minnie Build,2019,641,10
 10898-1,My First Mickey Build,2019,641,9
 10899-1,Frozen Ice Castle,2019,504,59
@@ -1314,7 +1315,7 @@ set_num,name,year,theme_id,num_parts
 1581-2,Delivery Truck,1990,75,122
 1584-1,Knights Challenge,1988,199,168
 1588-1,Basic Set,1987,467,27
-1589-1,Town Square,1978,85,441
+1589-1,Town Square,1978,85,442
 1589-2,TCS Breakdown Assistance,1986,85,258
 1590-2,ANWB Breakdown Assistance,1982,85,262
 159-1,"Crossover, Straight Rails",1976,243,25
@@ -1524,7 +1525,7 @@ set_num,name,year,theme_id,num_parts
 1808-1,Light Aircraft and Ground Support,1996,68,126
 1809-1,Condor Promotional Airplane,1996,466,29
 18-1,Tree and Signs,1985,443,7
-181-1,"Complete Train Set with Motor, Signals and Switch",1972,235,143
+181-1,"Complete Train Set with Motor, Signals and Switch",1972,235,144
 1811-1,Safari,1995,632,27
 1814-1,Starter Set,1995,664,23
 1815-1,Paradisa Lifeguard,1996,90,38
@@ -3281,6 +3282,7 @@ set_num,name,year,theme_id,num_parts
 30620-1,Star-Stuck Emmet,2019,670,41
 30623-1,SHAZAM!,2019,695,5
 30624-1,Obi-Wan Kenobi - Collectible Minifigure,2019,158,12
+30625-1,Luke Skywalker with Blue Milk,2021,158,6
 3063-1,Heartlake Flying Club,2012,494,197
 3065-1,Olivia’s Tree House,2012,494,214
 3066-1,Cosmos Glider,1999,93,19
@@ -3953,7 +3955,7 @@ set_num,name,year,theme_id,num_parts
 3624-1,Flower Car,1985,390,27
 3625-1,Aeroplane,1985,390,9
 3626-1,Roger Raccoon's Sports Car,1983,390,17
-3627-1,Bonnie Rabbit's Flower Truck,1983,390,25
+3627-1,Bonnie Rabbit's Flower Truck,1983,390,31
 3628-1,Perry Panda & Chester Chimp,1981,390,5
 3629-1,Barney Bear,1981,390,17
 3630-1,Sports Airplane,1984,390,9
@@ -7987,7 +7989,7 @@ set_num,name,year,theme_id,num_parts
 60017-1,Flatbed Truck,2013,63,212
 60018-1,Cement Mixer,2013,56,221
 60019-1,Stunt Plane,2013,53,140
-600-2,Police Patrol,1978,80,23
+600-2,Police Patrol,1978,80,24
 60020-1,Cargo Truck,2013,54,320
 6002-1,Town Figures,1983,84,20
 60021-1,Cargo Heliplane,2013,53,393
@@ -8061,7 +8063,7 @@ set_num,name,year,theme_id,num_parts
 60092-1,Deep Sea Submarine,2015,52,274
 60093-1,Deep Sea Helicopter,2015,52,388
 60095-1,Deep Sea Exploration Vessel,2015,52,717
-60096-1,Deep Sea Operation Base,2015,52,906
+60096-1,Deep Sea Operation Base,2015,52,907
 60097-1,City Square,2015,63,1683
 60098-1,Heavy-Haul Train,2015,66,984
 60099-1,City Advent Calendar 2015,2015,208,278
@@ -8582,10 +8584,10 @@ set_num,name,year,theme_id,num_parts
 6305-1,Trees and Flowers,1980,84,24
 6306-1,Road Signs,1980,84,12
 6307-1,Firemen,1983,84,22
-6307985-1,Spring,2019,206,125
-6307986-1,Summer,2019,206,102
-6307987-1,Autumn,2019,206,125
-6307988-1,Winter,2019,206,112
+6307985-1,Spring,2019,206,126
+6307986-1,Summer,2019,206,103
+6307987-1,Autumn,2019,206,126
+6307988-1,Winter,2019,206,113
 6308-1,Policemen,1982,84,20
 6309-1,Town Mini-Figures,1988,84,41
 6310-1,T-Road Plates,1986,84,2
@@ -8860,7 +8862,7 @@ set_num,name,year,theme_id,num_parts
 65296-1,Hewkii and Hahli Twin Pack with Gold Avohkii,2003,335,1
 65297-1,Hafu and Macku Twin Pack with Gold Avohkii,2003,335,1
 6530-1,Sport Coupe,1990,85,43
-653-1,Ambulance and Helicopter,1973,420,36
+653-1,Ambulance and Helicopter,1973,420,37
 6531-1,Flame Chaser,1991,74,56
 6532-1,Diesel Dumper,1991,72,47
 6533-1,Police 4x4,1992,80,62
@@ -8972,7 +8974,7 @@ set_num,name,year,theme_id,num_parts
 6597-1,Century Skyway,1994,68,905
 6598-1,Metro PD Station,1996,80,567
 6599-1,Shark Attack,1997,86,59
-6600-1,Police Patrol,1981,80,23
+6600-1,Police Patrol,1981,80,24
 6600-2,Highway Construction,2000,97,317
 660-1,Car with Plane Transporter,1975,423,41
 6601-1,Ice Cream Cart,1985,75,30
@@ -9890,7 +9892,7 @@ set_num,name,year,theme_id,num_parts
 70667-1,Kai’s Blade Cycle & Zane’s Snowmobile,2019,435,377
 70668-1,Jay’s Storm Fighter,2019,435,490
 70669-1,Cole’s Earth Driller,2019,435,579
-70670-1,Monastery of Spinjitzu,2019,435,1079
+70670-1,Monastery of Spinjitzu,2019,435,1080
 7067-1,Jet-Copter Encounter,2011,127,375
 70671-1,Lloyd's Journey,2019,435,82
 70672-1,Cole's Dirt Bike,2019,435,221
@@ -10812,7 +10814,7 @@ set_num,name,year,theme_id,num_parts
 72004-1,Tech Wizard Showdown,2018,605,506
 72005-1,Aaron's X-bow,2018,605,569
 72006-1,Axl's Rolling Arsenal,2018,605,603
-720-1,Basic Building Set,1985,467,339
+720-1,Basic Building Set,1985,467,340
 7201-1,Final Duel II,2002,158,26
 720-2,Train with 12V Electric Motor,1969,234,357
 7203-1,Jedi Defense I,2002,158,59
@@ -12089,7 +12091,7 @@ set_num,name,year,theme_id,num_parts
 7998-1,Heavy Hauler,2007,56,332
 8000-1,Pit Droid,2000,18,223
 80006-1,White Dragon Horse Bike,2020,693,259
-80007-1,Iron Bull Tank,2020,693,429
+80007-1,Iron Bull Tank,2020,693,430
 80008-1,Monkie Kid's Cloud Jet,2020,693,529
 80009-1,Pigsy's Food Truck,2020,693,832
 800-1,Gear Set with Motor,1970,472,120
@@ -15173,6 +15175,14 @@ FANEXPO2015-1,Tatooine Mini-Build (FAN EXPO Version),2015,158,179
 FBULLDOG-1,French Bulldog,2018,598,0
 fdp01-1,LEGO Familiedage Puzzle Promo 2009,2009,301,7
 FIESTA2020-1,LEGOLAND Discovery Center San Antonio Fiesta 2020 Medal,2020,425,0
+FLLCNOTEBOOK2020-1,RePLAY Engineering Notebook,2020,398,0
+FLLCTEAMGUIDE2020-1,RePLAY Team Meeting Guide,2020,398,0
+FLLDNOTEBOOK2020-1,PLAYMAKERS Engineering Notebook,2020,398,0
+FLLDTEAMGUIDE2020-1,PLAYMAKERS Team Meeting Guide,2020,398,0
+FLLJNOTEBOOK2019-1,Boomtown Build Engineering Notebook,2019,398,0
+FLLJTEAMGUIDE2019-1,Boomtown Build Team Meeting Guide,2019,398,0
+FLLNOTEBOOK2019-1,City Shaper Engineering Notebook,2019,398,0
+FLLTEAMGUIDE2019-1,City Shaper Team Meeting Guide,2019,398,0
 FLOWER-1,Flower,2019,598,17
 Frankfurt-1,"LEGO Store Grand Opening Exclusive Set, MyZeil, Frankfurt, Germany",2009,408,157
 Frisco-1,"LEGO Store Grand Opening Exclusive Set, Stonebriar Centre, Frisco, TX",2009,408,60
@@ -15682,7 +15692,7 @@ TOUCAN2020-1,Toucan,2020,621,22
 TOYFAIR-1,"Toy Fair 2009, Chrome Black Darth Vader",2009,158,7
 TRADINGCARD-1,Create the World Trading Cards,2017,501,0
 TRADINGCARD-2,Create the World Trading Cards: Incredible Inventions,2018,501,60
-TRADINGCARD-3,Create the World Trading Cards: Living Amazingly,2020,501,23
+TRADINGCARD-3,Create the World Trading Cards: Living Amazingly,2020,501,27
 TREE-1,Tree in the Woods,2019,408,53
 TRICERATOPS-1,Triceratops,2019,408,30
 Troy-1,"LEGO Store Grand Opening Exclusive Set, Somerset Collection, Troy, MI",2010,408,103
@@ -15698,6 +15708,7 @@ TRUFRANKENSTEIN-1,Frankenstein's Monster,2016,598,37
 TRUFRIENDS-1,Wishing Well,2016,494,33
 TRUGHOST-1,Micro Ghost,2014,158,42
 TRUIRONMAN-1,Iron Man Mosaic,2018,705,59
+TRUJEK14-1,Jek-14 Stealth Fighter,2013,158,40
 TRUJOKERMECH-1,The Joker Mini Mech Bot,2013,697,42
 TRUJWGATE-1,Jurassic World Gate,2015,602,62
 TRUKAYAK-1,Kayak,2015,59,18
